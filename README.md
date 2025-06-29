@@ -83,9 +83,7 @@ Attacking 🗡️
 
 ## 🖼️ Preview
 
-![BDOS Preview](https://raw.githubusercontent.com/JOY-XII/Bdos.py/main/assets/demo.gif)
-
-> 📷 Save your terminal preview as: `assets/demo.gif`
+![Screenshot](Screenshot_2025-06-28-10-22-30-316_com.termux.png)
 
 ---
 
