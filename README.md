@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ## 💻 Usage
 
 ```bash
-git clone https://github.com/JOY-XII/Bdos.py.git
+git clone https://github.com/JOY-XII/Bdos.git
 cd Bdos.py
 python Bdos.py
 ```
